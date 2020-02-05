@@ -1,2 +1,2 @@
 # gitclass
-kurs
+kurs kurs kurs kurs
